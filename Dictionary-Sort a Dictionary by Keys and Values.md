@@ -5,8 +5,7 @@ This Python program demonstrates how to sort a dictionary:
 - Alphabetically by values
 
 ---
-## NAME : RAJA GOPAL V
-## REG NO: 212223240134
+
 ## 🎯 Aim
 
 To write a Python program that sorts a dictionary's:
